@@ -48,9 +48,11 @@
     <Compile Include="Enigmas\CharadeEnigmaPanel.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Enigmas\Components\PlateformesAleatoire.cs" />
     <Compile Include="Enigmas\Components\PuzzlePiece.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Enigmas\Components\Personnage.cs" />
     <Compile Include="Enigmas\EnigmaPanel.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -58,6 +60,9 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Enigmas\MemoireDesChiffresEnigmaPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Enigmas\NiveauPiegeEnigmaPanel.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Enigmas\OuEstLaReponseEnigmaPanel.cs">
@@ -113,6 +118,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="ClassDiagram5.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
