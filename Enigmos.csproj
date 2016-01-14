@@ -51,14 +51,10 @@
     <Compile Include="Enigmas\CharadeEnigmaPanel.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Enigmas\Components\PlateformesAleatoire.cs" />
     <Compile Include="Enigmas\Components\PuzzlePiece.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Enigmas\DingbatEnigmaPanel.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Enigmas\Components\Personnage.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Enigmas\EnigmaPanel.cs">
@@ -73,7 +69,7 @@
     <Compile Include="Enigmas\MemoireDesChiffresEnigmaPanel.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Enigmas\NiveauPiegeEnigmaPanel.cs">
+    <Compile Include="Enigmas\MemoryEnigmaPanel.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Enigmas\OuEstLaReponseEnigmaPanel.cs">
@@ -150,6 +146,14 @@
     <Content Include="enigmas.xml">
       <SubType>Designer</SubType>
     </Content>
+    <None Include="Resources\WaterCooling.png" />
+    <None Include="Resources\Titanx.png" />
+    <None Include="Resources\Ssd.png" />
+    <None Include="Resources\Ram.png" />
+    <None Include="Resources\Intel.png" />
+    <None Include="Resources\CarteMere.png" />
+    <None Include="Resources\Boitier.png" />
+    <None Include="Resources\Alim.png" />
     <None Include="img\image2.PNG" />
     <None Include="img\image1.PNG" />
     <None Include="Resources\OpenDoor - Solution.png" />

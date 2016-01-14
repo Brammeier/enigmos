@@ -64,4 +64,8 @@
     <answer>citron vert</answer>
     <hint>Combien de troncs ? Quelle couleur ?</hint>
   </enigma>
+  <enigma title="Memory">
+    <answer>Gauche</answer>
+    <hint>Utilise ton cerveau.</hint>
+  </enigma>
 </enigmas>

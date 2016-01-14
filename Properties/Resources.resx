@@ -163,4 +163,28 @@
   <data name="Verre" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Verre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="memory0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Alim.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="memory1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Boitier.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="memory2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CarteMere.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="memory3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Intel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="memory4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ram.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="memory5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ssd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="memory6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Titanx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="memory7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WaterCooling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
